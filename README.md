@@ -9,4 +9,4 @@ Practice with Java Applications
 
 ### Stuff Used:
 - Apache Maven
-- Java FX API
+- Java FX
